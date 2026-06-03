@@ -62,8 +62,10 @@ Develop SQL-based analytics to deliver detailed insights into:
 * 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
+## 👨‍💻 About Me
 
+Passionate Data Engineer and aspiring Data Scientist with hands-on experience in building end-to-end data warehouse and analytics solutions using SQL Server (SSMS) and ETL pipelines.
 
+Skilled in data modeling, data transformation, business intelligence, and analytics reporting using Medallion Architecture (Bronze, Silver, Gold). Strong background in Oracle ERP development, Oracle Apex Professional Developer, PL/SQL, SQL optimization, and dashboard development.
 
-
-
+I am continuously learning advanced Data Science, Cloud Data Engineering, and AI technologies to build scalable and intelligent data-driven systems.
